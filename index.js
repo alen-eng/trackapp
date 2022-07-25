@@ -39,7 +39,7 @@ const state ={
 }
 module.exports.connect=function(done){
     //const Password=process.env.tvZwiltv8ylWVSkA
-   const url= 'mongodb+srv://rangeappuser:2orL6IKcLoKpTkfD@cluster-007.kxziv.mongodb.net/Cluster-007';
+   const url= 'url';
     //const url='mongodb://localhost:27017'
     const dbname='trackapp'
     // mongoose.connect(url,(err,data)=>{
